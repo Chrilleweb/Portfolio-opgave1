@@ -88,6 +88,11 @@ section {
     color: #5BC0F8;
 }
 
+#bottom-img{
+    width: 8%;
+    border-radius: 50%;
+}
+
 footer {
     background-color: lightgray;
     text-align: center;
