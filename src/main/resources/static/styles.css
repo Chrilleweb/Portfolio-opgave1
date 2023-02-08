@@ -1,6 +1,6 @@
 body {
     color: #383838;
-    font-size: 110%;
+    font-size: 115%;
 }
 
 h1{
@@ -48,6 +48,14 @@ nav a {
 
 .klik:hover{
     color: #5BC0F8;
+}
+
+.klik-projects{
+    font-size: 100%;
+}
+
+.lists{
+    font-size: 115%;
 }
 
 #right-intro{
